@@ -89,9 +89,9 @@ This project is open-source and available under the MIT License.
 
 ## 👤 Author VAISHNAVISINHA
 
-*Developed by [Your Name]*  
+*Developed by [vaishnavi sinha]*  
 For any suggestions or issues, feel free to reach out!
 
 ---
 
-Let me know if you'd like a version of this README tailored for GitHub, including badges, screenshots, or GIF demos!
+

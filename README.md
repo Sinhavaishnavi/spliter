@@ -4,7 +4,7 @@
 # 💸 Expense Splitter App
 
 A simple GUI-based expense splitting application built using Python and Tkinter. It helps evenly split shared expenses among a group of people and determines who owes whom how much.
-
+https://splitter-tem6c3hxppdnvosed5mrwy.streamlit.app/
 ---
 
 ## 📌 Features
